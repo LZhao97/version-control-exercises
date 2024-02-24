@@ -99,4 +99,8 @@ result <- lapply(list(subset_country, subset_province, subset_city), missings, c
 bind_rows(result)
 
 data.frame(dataset = c('country','province','city'), bind_rows(result))
+<<<<<<< HEAD
 # adding another line that is different from Githubß
+=======
+# adding this line as a test
+>>>>>>> bd147fb85e3a95a21007a1e67f9b6ce6f670baa7
