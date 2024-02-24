@@ -4,3 +4,5 @@ This is a new text of line that I have written locally
 =======
 This line is written on Github
 >>>>>>> 738b166d77ca254f44f4577f542de171878b80b1
+
+Does this change the structure of the file?
