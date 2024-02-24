@@ -99,3 +99,4 @@ result <- lapply(list(subset_country, subset_province, subset_city), missings, c
 bind_rows(result)
 
 data.frame(dataset = c('country','province','city'), bind_rows(result))
+# adding this line as a test
